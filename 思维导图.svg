@@ -1,6 +1,6 @@
 <svg viewBox="0 0 680 840" width="100%" xmlns="http://www.w3.org/2000/svg">
   <title>职场进阶思考 · 主题索引思维导图</title>
-  <desc>按主题分类呈现职场进阶知识库的思考脉络，覆盖向上管理、平级协作、职业规划、工作方法、管理能力、职场生存六大维度，共17篇文章</desc>
+  <desc>按主题分类呈现职场进阶知识库的思考脉络，覆盖向上管理、平级协作、职业规划、工作方法、管理能力、职场生存六大维度，共18篇文章</desc>
 
   <!-- 标题 -->
   <rect x="230" y="16" width="220" height="40" rx="12" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
@@ -25,18 +25,18 @@
 
   <!-- ===== 左列 ===== -->
 
-  <!-- 向上管理 7篇 -->
+  <!-- 向上管理 8篇 -->
   <line x1="175" y1="132" x2="44" y2="132" stroke="#D3D1C7" stroke-width="0.5"/>
   <rect x="44" y="120" width="120" height="26" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.4"/>
   <text x="104" y="133" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" font-weight="500" fill="#085041">向上管理</text>
-  <text x="234" y="133" dominant-baseline="central" font-family="sans-serif" font-size="10" fill="#5DCAA5">7 篇</text>
+  <text x="234" y="133" dominant-baseline="central" font-family="sans-serif" font-size="10" fill="#5DCAA5">8 篇</text>
 
   <rect x="44" y="152" width="210" height="20" rx="4" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.3"/>
   <text x="149" y="162" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="9" fill="#5F5E5A">复杂任务求助 · 考评汇报 · 应对变化</text>
   <rect x="44" y="174" width="210" height="20" rx="4" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.3"/>
   <text x="149" y="184" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="9" fill="#5F5E5A">方案心法 · 新人展露 · 让领导看见</text>
   <rect x="44" y="196" width="210" height="20" rx="4" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.3"/>
-  <text x="149" y="206" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="9" fill="#5F5E5A">+2关键人管理策略</text>
+  <text x="149" y="206" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="9" fill="#5F5E5A">+2关键人策略 · 职场表达思维</text>
 
   <!-- 平级协作 2篇 -->
   <line x1="175" y1="232" x2="44" y2="232" stroke="#D3D1C7" stroke-width="0.5"/>
@@ -58,7 +58,7 @@
 
   <!-- 左列汇总 -->
   <rect x="64" y="348" width="182" height="24" rx="6" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.3"/>
-  <text x="155" y="360" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="10" fill="#888780">小计 12 篇</text>
+  <text x="155" y="360" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="10" fill="#888780">小计 13 篇</text>
 
   <!-- ===== 右列 ===== -->
 
@@ -105,7 +105,7 @@
 
   <!-- 底部统计 -->
   <rect x="180" y="520" width="320" height="28" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.3"/>
-  <text x="340" y="534" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" font-weight="500" fill="#3C3489">6 大维度 · 17 篇文章 · 持续更新中</text>
+  <text x="340" y="534" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" font-weight="500" fill="#3C3489">6 大维度 · 18 篇文章 · 持续更新中</text>
 
   <text x="340" y="580" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#B4B2A9">随实践不断补充新条目和新维度</text>
 </svg>
