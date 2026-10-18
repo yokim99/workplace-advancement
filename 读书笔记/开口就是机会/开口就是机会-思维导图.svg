@@ -1,0 +1,120 @@
+<svg viewBox="0 0 680 1180" width="100%" role="img">
+  <title>《开口就是机会》全书思维导图</title>
+  <desc>包含全书四层进阶结构和核心观点框架工具箱的完整思维导图</desc>
+  <defs>
+    <marker id="arrow3" viewBox="0 0 10 10" refX="8" refY="5"
+      markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke"
+        stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="680" height="1180" fill="transparent"/>
+
+  <text x="340" y="30" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="500" fill="#26215C">《开口就是机会》全书思维导图</text>
+  <text x="340" y="48" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#888780">Olga姐姐 · 职场沟通 · 30余年职业生涯提炼</text>
+
+  <rect x="240" y="62" width="200" height="40" rx="10" fill="#534AB7" stroke="#3C3489" stroke-width="0.5"/>
+  <text x="340" y="82" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="13" font-weight="500" fill="#FFFFFF">沟通 = 职场困境的解药</text>
+
+  <line x1="340" y1="102" x2="340" y2="118" stroke="#534AB7" stroke-width="1.5" marker-end="url(#arrow3)"/>
+
+  <rect x="220" y="118" width="240" height="36" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
+  <text x="340" y="136" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#3C3489">自序4命题: 开口 → 双赢 → 领导力 → 内在生命力</text>
+
+  <line x1="340" y1="154" x2="340" y2="170" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <rect x="40" y="170" width="600" height="970" rx="14" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
+
+  <text x="60" y="194" font-family="sans-serif" font-size="13" font-weight="500" fill="#26215C">四层进阶结构</text>
+
+  <rect x="60" y="206" width="560" height="180" rx="10" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="0.5"/>
+  <text x="80" y="228" font-family="sans-serif" font-size="12" font-weight="500" fill="#3C3489">第一层 · WHY — 认知层（第1章）</text>
+
+  <rect x="80" y="240" width="240" height="56" rx="8" fill="#FFFFFF" stroke="#AFA9EC" stroke-width="0.5"/>
+  <text x="200" y="260" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" font-weight="500" fill="#3C3489">沉默不是金</text>
+  <text x="200" y="278" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" fill="#534AB7">不开口 = 别人看不到你</text>
+
+  <rect x="340" y="240" width="260" height="56" rx="8" fill="#FFFFFF" stroke="#AFA9EC" stroke-width="0.5"/>
+  <text x="470" y="260" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" font-weight="500" fill="#3C3489">沟通是晋升隐形帮手</text>
+  <text x="470" y="278" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" fill="#534AB7">执行者vs管理者 沟通重点不同</text>
+
+  <rect x="80" y="306" width="520" height="56" rx="8" fill="#FFFFFF" stroke="#AFA9EC" stroke-width="0.5"/>
+  <text x="340" y="326" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" font-weight="500" fill="#3C3489">沟通为什么没效果 — 三大误区</text>
+  <text x="340" y="344" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" fill="#534AB7">没理清思路 · 学生思维打工 · 忽略双赢</text>
+
+  <line x1="340" y1="386" x2="340" y2="402" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <rect x="60" y="402" width="560" height="220" rx="10" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
+  <text x="80" y="424" font-family="sans-serif" font-size="12" font-weight="500" fill="#085041">第二层 · 基本功 — 能力层（第2-3章）</text>
+
+  <rect x="80" y="436" width="260" height="170" rx="8" fill="#FFFFFF" stroke="#5DCAA5" stroke-width="0.5"/>
+  <text x="210" y="456" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" font-weight="500" fill="#085041">第2章 把话说好</text>
+  <text x="100" y="478" font-family="sans-serif" font-size="11" fill="#0F6E56">• AKS框架: 成就+成功因素+追问</text>
+  <text x="100" y="496" font-family="sans-serif" font-size="11" fill="#0F6E56">• 汇报6妙招: 议程/数据/节奏/</text>
+  <text x="100" y="512" font-family="sans-serif" font-size="11" fill="#0F6E56">  能量/眼神/结论转策略</text>
+  <text x="100" y="530" font-family="sans-serif" font-size="11" fill="#0F6E56">• 新人融入: 正式+非正式双管齐下</text>
+  <text x="100" y="548" font-family="sans-serif" font-size="11" fill="#0F6E56">• 高效会议: 会前/会中/会后闭环</text>
+  <text x="100" y="566" font-family="sans-serif" font-size="11" fill="#0F6E56">• RACI责任矩阵</text>
+  <text x="100" y="584" font-family="sans-serif" font-size="11" fill="#0F6E56">• 被动式倾听给情绪价值</text>
+
+  <rect x="360" y="436" width="240" height="170" rx="8" fill="#FFFFFF" stroke="#5DCAA5" stroke-width="0.5"/>
+  <text x="480" y="456" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" font-weight="500" fill="#085041">第3章 建立信任</text>
+  <text x="380" y="478" font-family="sans-serif" font-size="11" fill="#0F6E56">• 对事不对人, 事实+提问代替指责</text>
+  <text x="380" y="496" font-family="sans-serif" font-size="11" fill="#0F6E56">• 沟通三要素(万能检查清单):</text>
+  <text x="380" y="512" font-family="sans-serif" font-size="11" fill="#0F6E56">  情况(背景) + 目标 + 对象</text>
+  <text x="380" y="530" font-family="sans-serif" font-size="11" fill="#0F6E56">• 同频沟通: 看领导类型调整</text>
+  <text x="380" y="548" font-family="sans-serif" font-size="11" fill="#0F6E56">• 越级艺术: 让+1成为明星老板</text>
+  <text x="380" y="566" font-family="sans-serif" font-size="11" fill="#0F6E56">• 你是在为简历打工</text>
+  <text x="380" y="584" font-family="sans-serif" font-size="11" fill="#0F6E56">• 线上提意见三要素</text>
+
+  <line x1="340" y1="622" x2="340" y2="638" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <rect x="60" y="638" width="560" height="310" rx="10" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+  <text x="80" y="660" font-family="sans-serif" font-size="12" font-weight="500" fill="#712B13">第三层 · 关键场景实战 — 实战层（第4-7章）</text>
+
+  <rect x="80" y="672" width="520" height="50" rx="8" fill="#FFFFFF" stroke="#F0997B" stroke-width="0.5"/>
+  <text x="340" y="690" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" font-weight="500" fill="#712B13">第4章 发起关键对话（引子）</text>
+  <text x="340" y="708" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" fill="#993C1D">向上争资源 · 向下派任务 · 向周边谈合作</text>
+
+  <rect x="80" y="732" width="166" height="100" rx="8" fill="#FFFFFF" stroke="#F0997B" stroke-width="0.5"/>
+  <text x="163" y="752" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" font-weight="500" fill="#712B13">第5章 向上</text>
+  <text x="163" y="770" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" fill="#993C1D">管理上下级预期</text>
+  <text x="95" y="790" font-family="sans-serif" font-size="11" fill="#D85A30">• 批评4步法</text>
+  <text x="95" y="806" font-family="sans-serif" font-size="11" fill="#D85A30">• 最优最差分析</text>
+  <text x="95" y="822" font-family="sans-serif" font-size="11" fill="#D85A30">• EARS模型</text>
+
+  <rect x="258" y="732" width="164" height="100" rx="8" fill="#FFFFFF" stroke="#F0997B" stroke-width="0.5"/>
+  <text x="340" y="752" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" font-weight="500" fill="#712B13">第6章 向下</text>
+  <text x="340" y="770" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" fill="#993C1D">激励团队</text>
+  <text x="273" y="790" font-family="sans-serif" font-size="11" fill="#D85A30">• 自驱力3类诊断</text>
+  <text x="273" y="806" font-family="sans-serif" font-size="11" fill="#D85A30">• 表扬3要素</text>
+  <text x="273" y="822" font-family="sans-serif" font-size="11" fill="#D85A30">• IDP发展计划</text>
+
+  <rect x="434" y="732" width="166" height="100" rx="8" fill="#FFFFFF" stroke="#F0997B" stroke-width="0.5"/>
+  <text x="517" y="752" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" font-weight="500" fill="#712B13">第7章 向周边</text>
+  <text x="517" y="770" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" fill="#993C1D">跨部门协作</text>
+  <text x="449" y="790" font-family="sans-serif" font-size="11" fill="#D85A30">• 过度沟通原则</text>
+  <text x="449" y="806" font-family="sans-serif" font-size="11" fill="#D85A30">• 启动会4步法</text>
+  <text x="449" y="822" font-family="sans-serif" font-size="11" fill="#D85A30">• 坦诚破冰信任</text>
+
+  <rect x="80" y="844" width="520" height="90" rx="8" fill="#F5C4B3" fill-opacity="0.3" stroke="#F0997B" stroke-width="0.5" stroke-dasharray="4,3"/>
+  <text x="340" y="864" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="11" font-weight="500" fill="#712B13">框架工具箱</text>
+  <text x="100" y="884" font-family="sans-serif" font-size="11" fill="#993C1D">AKS · RACI · EARS · 沟通三要素</text>
+  <text x="100" y="902" font-family="sans-serif" font-size="11" fill="#993C1D">争取资源3步法 · 最优最差对比 · IDP · 破解假和谐3步</text>
+  <text x="100" y="920" font-family="sans-serif" font-size="11" fill="#993C1D">项目启动会4步 · 谈判4步 · 成长型心态5法</text>
+
+  <line x1="340" y1="948" x2="340" y2="964" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <rect x="60" y="964" width="270" height="160" rx="10" fill="#FBEAF0" stroke="#ED93B1" stroke-width="0.5"/>
+  <text x="80" y="986" font-family="sans-serif" font-size="12" font-weight="500" fill="#72243E">第四层 · 升华（第8章）</text>
+  <text x="80" y="1006" font-family="sans-serif" font-size="11" fill="#993556">沟通从职场拓展到人生:</text>
+  <text x="80" y="1024" font-family="sans-serif" font-size="11" fill="#993556">• 与他人沟通 — 单向→双向</text>
+  <text x="80" y="1042" font-family="sans-serif" font-size="11" fill="#993556">• 与家人沟通 — 越逼越不知所措</text>
+  <text x="80" y="1060" font-family="sans-serif" font-size="11" fill="#993556">• 与自我对话 — 57岁找到新方向</text>
+  <text x="80" y="1078" font-family="sans-serif" font-size="11" fill="#993556">• 女性沟通优势</text>
+  <text x="80" y="1096" font-family="sans-serif" font-size="11" fill="#993556">• 勇气+傻劲</text>
+  <text x="80" y="1114" font-family="sans-serif" font-size="11" font-weight="500" fill="#72243E">开口就是机会的开始</text>
+
+  <text x="340" y="1158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#888780">三遍读书法: 泛读建框架 → 精读做笔记(68条观点/70条行动) → 读薄提炼核心逻辑</text>
+</svg>
